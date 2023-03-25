@@ -41,10 +41,10 @@ body:
       label: System Information
       description: please fill your system informations
       value: >
-	      Device: [e.g. Google Pixel 3]
- 		    Android version: [e.g. 12]
- 		    App version: [e.g. v0.1.1 (2)]
- 		    Jellyfin version: [e.g. 10.8.5]
+	Device: [e.g. Google Pixel 3]
+ 	Android version: [e.g. 12]
+ 	App version: [e.g. v0.1.1 (2)]
+ 	Jellyfin version: [e.g. 10.8.5]
     validations:
       required: true
   - type: textarea
